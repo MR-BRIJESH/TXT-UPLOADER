@@ -1,6 +1,6 @@
-# txt uploader
+# TXT TO UPLOADER 
 
-# Made By Devansh
+# MADE BY:- 𝐌𝐑 𝐁𝐑𝐈𝐉𝐄𝐒𝐇 😇
 
 
 ## DEPLOY TO HEROKU
